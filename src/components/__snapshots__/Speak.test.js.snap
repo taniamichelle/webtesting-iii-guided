@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Speak /> matches snapshot 1`] = `
+Array [
+  <button>
+    Speak
+  </button>,
+  <div />,
+]
+`;
